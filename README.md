@@ -1,6 +1,6 @@
-# Speak Ease 2024
+# Speak Ease
 
-Speak Ease 2024 is a MERN stack web application featuring a smart, user-friendly task manager with voice-enabled input. It allows users to efficiently add, update, and manage tasks manually or via voice commands using the Web Speech API.
+Speak Ease is a MERN stack web application featuring a smart, user-friendly task manager with voice-enabled input. It allows users to efficiently add, update, and manage tasks manually or via voice commands using the Web Speech API.
 
 ## 🌟 Features
 
